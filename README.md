@@ -7,16 +7,16 @@ Hi, I am Nivedha. Currently I am pursuing Master of Science in Data Analytics at
 
 ## Table of Contents
 - Machine Learning Projects
--- [Recommendation System](https://github.com/NivedhaBalakrishnan/Data-Science-Protfolio/tree/main/Recommendation%20System)
+  - [Recommendation System](https://github.com/NivedhaBalakrishnan/Data-Science-Protfolio/tree/main/Recommendation%20System)
 
 - Computer Vision Projects
--- [Medical Image Segmentation](https://github.com/NivedhaBalakrishnan/Data-Science-Protfolio/tree/main/Medical%20Image%20Segmentation)
--- [Multi Class Image Classification using CNN](https://github.com/NivedhaBalakrishnan/Data-Science-Protfolio/tree/main/Image%20Classification%20using%20CNN)
+  - [Medical Image Segmentation](https://github.com/NivedhaBalakrishnan/Data-Science-Protfolio/tree/main/Medical%20Image%20Segmentation)
+  - [Multi Class Image Classification using CNN](https://github.com/NivedhaBalakrishnan/Data-Science-Protfolio/tree/main/Image%20Classification%20using%20CNN)
 
 - NLP Projects
--- [Fake news Classification using NLP](https://github.com/NivedhaBalakrishnan/Data-Science-Protfolio/tree/main/Fake%20News%20Classification%20using%20NLP)
--- [Topic Modeling using NLP](https://github.com/NivedhaBalakrishnan/Data-Science-Protfolio/tree/main/Topic%20Modeling%20using%20NLP)
+  - [Fake news Classification using NLP](https://github.com/NivedhaBalakrishnan/Data-Science-Protfolio/tree/main/Fake%20News%20Classification%20using%20NLP)
+  - [Topic Modeling using NLP](https://github.com/NivedhaBalakrishnan/Data-Science-Protfolio/tree/main/Topic%20Modeling%20using%20NLP)
 
 - Deep Learning Projects
--- [Time Series Forecasting using LSTM](https://github.com/NivedhaBalakrishnan/Data-Science-Protfolio/tree/main/Time%20Series%20Forecasting%20using%20LSTM)
--- [Emotional Recognition using ANN](https://github.com/NivedhaBalakrishnan/Data-Science-Protfolio/tree/main/Emotional%20Recognition%20using%20ANN)
+  - [Time Series Forecasting using LSTM](https://github.com/NivedhaBalakrishnan/Data-Science-Protfolio/tree/main/Time%20Series%20Forecasting%20using%20LSTM)
+  - [Emotional Recognition using ANN](https://github.com/NivedhaBalakrishnan/Data-Science-Protfolio/tree/main/Emotional%20Recognition%20using%20ANN)
